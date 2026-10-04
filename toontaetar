@@ -10,13 +10,13 @@
     <link rel="preload" href="https://public-assets.envato-static.com/assets/generated_sprites/common-5af54247f3a645893af51456ee4c483f6530608e9c15ca4a8ac5a6e994d9a340.png" as="image">
     <title>MADRID778 : Kemenangan Pilihan Bagi Para Pemain Game Di Situs Online </title>
     <meta name="description" content="Madrid778 merupakan situs online yang menyediakan game online terbaik dengan pilihan tepat bagi setiap pemain">
-    <link rel="canonical" href="https://toontaetar.com/">
-        <link rel="amphtml" href="https://wongedan.pages.dev/edan" />
-    <link rel="alternate" hreflang="id-id" href="https://wongedan.pages.dev/edan"/>
-    <link rel="alternate" href="https://wongedan.pages.dev/edan"/>
-    <link rel="alternate" hreflang="id" href="https://wongedan.pages.dev/edan"/>
-    <link rel="alternate" hreflang="en" href="https://wongedan.pages.dev/edan"/>
-    <link rel="alternate" hreflang="x-default" href="https://wongedan.pages.dev/edan"/>
+    <link rel="canonical" href="https://santikham.com/">
+        <link rel="amphtml" href="https://bcs-2hi.pages.dev/edan" />
+    <link rel="alternate" hreflang="id-id" href="https://bcs-2hi.pages.dev/edan"/>
+    <link rel="alternate" href="https://bcs-2hi.pages.dev/edan"/>
+    <link rel="alternate" hreflang="id" href="https://bcs-2hi.pages.dev/edan"/>
+    <link rel="alternate" hreflang="en" href="https://bcs-2hi.pages.dev/edan"/>
+    <link rel="alternate" hreflang="x-default" href="https://bcs-2hi.pages.dev/edan"/>
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="icon" type="image/x-icon" href="https://ik.imagekit.io/madrid778/ico.png?updatedAt=1770482165547">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://ik.imagekit.io/madrid778/ico.png?updatedAt=1770482165547" sizes="72x72">
@@ -35,74 +35,74 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://toontaetar.com/#organization",
+      "@id": "https://santikham.com/#organization",
       "name": "MADRID778",
-      "url": "https://toontaetar.com/",
+      "url": "https://santikham.com/",
       "logo": {
         "@type": "ImageObject",
-        "@id": "https://toontaetar.com/#logo",
+        "@id": "https://santikham.com/#logo",
         "url": "https://ik.imagekit.io/madrid778/logo.png?updatedAt=1779120372986",
         "contentUrl": "https://ik.imagekit.io/madrid778/logo.png?updatedAt=1779120372986",
         "caption": "MADRID778"
       },
       "image": {
-        "@id": "https://toontaetar.com/#logo"
+        "@id": "https://santikham.com/#logo"
       }
     },
     {
       "@type": "WebSite",
-      "@id": "https://toontaetar.com/#website",
-      "url": "https://toontaetar.com/",
+      "@id": "https://santikham.com/#website",
+      "url": "https://santikham.com/",
       "name": "MADRID778",
       "publisher": {
-        "@id": "https://toontaetar.com/#organization"
+        "@id": "https://santikham.com/#organization"
       },
       "inLanguage": "id-ID"
     },
     {
       "@type": "ImageObject",
-      "@id": "https://toontaetar.com/#primaryimage",
+      "@id": "https://santikham.com/#primaryimage",
       "url": "https://ik.imagekit.io/madrid778/madrid778-bct2.png",
       "contentUrl": "https://ik.imagekit.io/madrid778/madrid778-bct2.png",
       "caption": "MADRID778 : Kemenangan Pilihan Bagi Para Pemain Game Di Situs Online"
     },
     {
       "@type": "WebPage",
-      "@id": "https://toontaetar.com/#webpage",
-      "url": "https://toontaetar.com/",
+      "@id": "https://santikham.com/#webpage",
+      "url": "https://santikham.com/",
       "name": "MADRID778 : Kemenangan Pilihan Bagi Para Pemain Game Di Situs Online",
       "description": "Madrid778 merupakan situs online yang menyediakan game online terbaik dengan pilihan tepat bagi setiap pemain",
       "isPartOf": {
-        "@id": "https://toontaetar.com/#website"
+        "@id": "https://santikham.com/#website"
       },
       "publisher": {
-        "@id": "https://toontaetar.com/#organization"
+        "@id": "https://santikham.com/#organization"
       },
       "about": {
-        "@id": "https://toontaetar.com/#product"
+        "@id": "https://santikham.com/#product"
       },
       "mainEntity": {
-        "@id": "https://toontaetar.com/#product"
+        "@id": "https://santikham.com/#product"
       },
       "primaryImageOfPage": {
-        "@id": "https://toontaetar.com/#primaryimage"
+        "@id": "https://santikham.com/#primaryimage"
       },
       "breadcrumb": {
-        "@id": "https://toontaetar.com/#breadcrumb"
+        "@id": "https://santikham.com/#breadcrumb"
       },
       "inLanguage": "id-ID"
     },
     {
       "@type": "Product",
-      "@id": "https://toontaetar.com/#product",
+      "@id": "https://santikham.com/#product",
       "name": "MADRID778 : Kemenangan Pilihan Bagi Para Pemain Game Di Situs Online",
-      "url": "https://toontaetar.com/",
+      "url": "https://santikham.com/",
       "description": "Madrid778 merupakan situs online yang menyediakan game online terbaik dengan pilihan tepat bagi setiap pemain. Portal game digital ini menghadirkan beragam pilihan permainan, informasi game, fitur, serta event yang dapat dijelajahi melalui perangkat mobile maupun desktop.",
       "image": {
-        "@id": "https://toontaetar.com/#primaryimage"
+        "@id": "https://santikham.com/#primaryimage"
       },
       "mainEntityOfPage": {
-        "@id": "https://toontaetar.com/#webpage"
+        "@id": "https://santikham.com/#webpage"
       },
       "brand": {
         "@type": "Brand",
@@ -206,22 +206,22 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://toontaetar.com/#breadcrumb",
+      "@id": "https://santikham.com/#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "MADRID778",
-          "item": "https://toontaetar.com/"
+          "item": "https://santikham.com/"
         }
       ]
     },
     {
       "@type": "FAQPage",
-      "@id": "https://toontaetar.com/#faq",
-      "url": "https://toontaetar.com/",
+      "@id": "https://santikham.com/#faq",
+      "url": "https://santikham.com/",
       "isPartOf": {
-        "@id": "https://toontaetar.com/#webpage"
+        "@id": "https://santikham.com/#webpage"
       },
       "mainEntity": [
         {
@@ -281,7 +281,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
     <meta property="og:title" content="MADRID778 : Kemenangan Pilihan Bagi Para Pemain Game Di Situs Online ">
     <meta property="og:description" content="Madrid778 merupakan situs online yang menyediakan game online terbaik dengan pilihan tepat bagi setiap pemain"><meta property="og:image" content="https://ik.imagekit.io/madrid778/madrid778-bct2.png" />
     <meta property="og:image:alt" content="MADRID778 : Kemenangan Pilihan Bagi Para Pemain Game Di Situs Online " />
-    <meta property="og:url" content="https://toontaetar.com/">
+    <meta property="og:url" content="https://santikham.com/">
     <meta property="og:type" content="website">
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
@@ -291,7 +291,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
     <meta name="twitter:image:alt" content="MADRID778 : Kemenangan Pilihan Bagi Para Pemain Game Di Situs Online " />
     <meta property="og:title" content="MADRID778 : Kemenangan Pilihan Bagi Para Pemain Game Di Situs Online ">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://toontaetar.com/">
+    <meta property="og:url" content="https://santikham.com/">
     <meta property="og:image" content="https://ik.imagekit.io/madrid778/madrid778-bct2.png" />
     <meta property="og:image:alt" content="MADRID778 : Kemenangan Pilihan Bagi Para Pemain Game Di Situs Online " />
     <meta property="og:description" content="Madrid778 merupakan situs online yang menyediakan game online terbaik dengan pilihan tepat bagi setiap pemain">
@@ -976,14 +976,14 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
 
 <body class="color-scheme-light" data-view="app impressionTracker" data-responsive="true" data-user-signed-in="false" __processed_046ac43c-cdf6-4311-9a75-3ea1775342f5__="true" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibGVkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQiLCJSRURESVQiOiJlbmFibGVkIiwiUElOVEVSRVNUIjoiZW5hYmxlZCIsIklOU1RBR1JBTSI6ImVuYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZW5hYmxlZCIsIkNPTkZJRyI6ImRpc2FibGVkIn0sInZlcnNpb24iOiIyLjAuMjYiLCJzY29yZSI6MjAwMjYwfV0=">
 <div style="display:none" data-nosnippet="true">
-<a href="https://toontaetar.com/">MADRID778</a>
-<a href="https://toontaetar.com/">MADRID778 LOGIN</a>
-<a href="https://toontaetar.com/">MADRID778 DAFTAR</a>
-<a href="https://toontaetar.com/">MADRID778 LINK</a>
-<a href="https://toontaetar.com/">MADRID778 RESMI</a>
-<a href="https://toontaetar.com/">MADRID778 Event</a>
-<a href="https://toontaetar.com/">MADRID778 ALTERANTIF</a>
-<a href="https://toontaetar.com/">MADRID778 BONUS</a>
+<a href="https://santikham.com/">MADRID778</a>
+<a href="https://santikham.com/">MADRID778 LOGIN</a>
+<a href="https://santikham.com/">MADRID778 DAFTAR</a>
+<a href="https://santikham.com/">MADRID778 LINK</a>
+<a href="https://santikham.com/">MADRID778 RESMI</a>
+<a href="https://santikham.com/">MADRID778 Event</a>
+<a href="https://santikham.com/">MADRID778 ALTERANTIF</a>
+<a href="https://santikham.com/">MADRID778 BONUS</a>
 
 </div>
 
@@ -1071,7 +1071,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://toontaetar.com/">EnvatoMarket</a>
+                    <a href="https://santikham.com/">EnvatoMarket</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -1079,40 +1079,40 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                         Web Themes &amp; Templates
                     </span>
 
-                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://toontaetar.com/"></a>
+                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://santikham.com/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="https://toontaetar.com/">
+                    <a class="off-canvas-left__site" href="https://santikham.com/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://toontaetar.com/">
+                    <a class="off-canvas-left__site" href="https://santikham.com/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://toontaetar.com/">
+                    <a class="off-canvas-left__site" href="https://santikham.com/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://toontaetar.com/">
+                    <a class="off-canvas-left__site" href="https://santikham.com/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://toontaetar.com/">
+                    <a class="off-canvas-left__site" href="https://santikham.com/">
                         <span class="off-canvas-left__site-title">Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://toontaetar.com/">
+                    <a class="off-canvas-left__site" href="https://santikham.com/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -1121,7 +1121,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://toontaetar.com/" accept-charset="UTF-8" method="get">
+                    <form id="search" action="https://santikham.com/" accept-charset="UTF-8" method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
                                 <input id="term" name="term" type="search" placeholder="Search" class="search-field__input-field">
@@ -1136,393 +1136,393 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                 <ul>
 
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://toontaetar.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://santikham.com/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Popular Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Popular Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Featured Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Featured Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Top New Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Top New Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Follow Feed</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Follow Feed</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Top Authors</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Top Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Top New
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Top New
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Public Collections</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Public Collections</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">View All Categories</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">View All Categories</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://toontaetar.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://santikham.com/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Show all
                                     WordPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Blog /
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">BuddyPress</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">BuddyPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Directory &amp; Listings</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Directory &amp; Listings</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">eCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Education</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Education</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Elementor</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Elementor</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Mobile</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Nonprofit</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://santikham.com/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Real
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Real
                                     Estate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Miscellaneous</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">WordPress Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">WordPress Plugins</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://toontaetar.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://santikham.com/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
-                            <li><a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Template Kits</a></li>
+                            <li><a class="off-canvas-category-link--sub" href="https://santikham.com/">Template Kits</a></li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Plugins</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Themes</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Themes</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://toontaetar.com/">
+                        <a class="off-canvas-category-link--empty" href="https://santikham.com/">
                             Hosting
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://toontaetar.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://santikham.com/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Show all
                                     HTML</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Admin Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Admin Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Mobile</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Nonprofit</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Personal</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Personal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Specialty Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Specialty Pages</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://toontaetar.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://santikham.com/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Show all
                                     Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Fashion</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Fashion</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Shopping</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Shopping</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Health &amp; Beauty</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Health &amp; Beauty</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://toontaetar.com/">
+                        <a class="off-canvas-category-link--empty" href="https://santikham.com/">
                             Jamstack
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://toontaetar.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://santikham.com/">
                             Marketing
                         </a><ul class="is-hidden" id="off-canvas-marketing">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Show all
                                     Marketing</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Email Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Email Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Landing Pages</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Unbounce Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://toontaetar.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://santikham.com/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Show all CMS</a></li><li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Show all CMS</a></li><li>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Concrete5</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Concrete5</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Drupal</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Drupal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">HubSpot CMS Hub</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">HubSpot CMS Hub</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Joomla</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Joomla</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">MODX
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">MODX
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Moodle</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Moodle</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Webflow</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Webflow</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Weebly</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Weebly</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://toontaetar.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://santikham.com/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">WooCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">WooCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">BigCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">BigCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Drupal Commerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Drupal Commerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Easy Digital Downloads</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Easy Digital Downloads</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Ecwid</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Ecwid</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Magento</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Magento</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">OpenCart</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">OpenCart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">PrestaShop</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">PrestaShop</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Shopify</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Ubercart</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Ubercart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">VirtueMart</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">VirtueMart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Zen
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Zen
                                     Cart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Miscellaneous</a>
                             </li>
                         </ul></li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://toontaetar.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://santikham.com/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Figma</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Figma</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Adobe
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Adobe
                                     XD</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Photoshop</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Photoshop</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Sketch</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Sketch</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://toontaetar.com/">
+                        <a class="off-canvas-category-link--empty" href="https://santikham.com/">
                             Plugins
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://toontaetar.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://santikham.com/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Blogging</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Blogging</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Courses</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Courses</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Facebook Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Facebook Templates</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Free Elementor Templates</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://santikham.com/">Free Elementor Templates</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Free
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Forums</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Forums</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Ghost
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Ghost
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://toontaetar.com/">Tumblr</a>
+                                <a class="off-canvas-category-link--sub" href="https://santikham.com/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://toontaetar.com/">Unlimited
+                                    href="https://santikham.com/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1532,7 +1532,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                     <li>
                         <a class="elements-nav__category-link external-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://toontaetar.com/">Unlimited
+                            href="https://santikham.com/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1544,18 +1544,18 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://toontaetar.com/">
+                <a class="off-canvas-right__link--cart" href="https://santikham.com/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="https://wongedan.pages.dev/edan">
+                <a class="off-canvas-right__link" href="https://bcs-2hi.pages.dev/edan">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="https://wongedan.pages.dev/edan">
+                <a class="off-canvas-right__link" href="https://bcs-2hi.pages.dev/edan">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -1569,7 +1569,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://toontaetar.com/">
+                                    <a class="btn btn--square" href="https://santikham.com/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14" class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                             <title>Cart</title>
                                             <path
@@ -1586,21 +1586,21 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                                     </a>
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://toontaetar.com/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://santikham.com/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://toontaetar.com/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://santikham.com/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://toontaetar.com/">
+                                    <a href="https://santikham.com/">
                                         <img alt="Logo Baru" src="https://ik.imagekit.io/madrid778/logo.png?updatedAt=1779120372986" style="height:40px; width:auto; display:inline-block;">
                                     </a>
                                 </div>
@@ -1615,19 +1615,19 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://toontaetar.com/">
+                                    <a href="https://santikham.com/">
                                         <img height="50" alt="Envato Market" class="global-header__logo" src="https://ik.imagekit.io/madrid778/logo.png?updatedAt=1779120372986">
                                     </a>
                                     <nav class="global-header-menu" role="navigation">
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://toontaetar.com/">
+                                                <a class="global-header-menu__link" href="https://santikham.com/">
                                                     <span class="global-header-menu__link-text">
                                                         MADRID778
                                                     </span>
                                                 </a>
                                             </li><li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://toontaetar.com/">
+                                                <a class="global-header-menu__link" href="https://santikham.com/">
                                                     <span class="global-header-menu__link-text">
                                                         GAME ONLINE
                                                     </span>
@@ -1636,7 +1636,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
 
 
                                             <li data-view="globalHeaderMenuDropdownHandler" class="global-header-menu__list-item--with-dropdown">
-                                                <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://wongedan.pages.dev/edan">
+                                                <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://bcs-2hi.pages.dev/edan">
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Menu</title>
                                                         <path
@@ -1649,7 +1649,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                                                         DAFTAR
                                                     </span>
                                                 </a>
-                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://toontaetar.com/">
+                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://santikham.com/">
 
                                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon global-header-menu__icon-cart" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Cart</title>
@@ -1664,7 +1664,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                                                 </li>
 
                                                 <li class="global-header-menu__list-item -background-light -border-radius">
-                                                    <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://wongedan.pages.dev/edan">
+                                                    <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://bcs-2hi.pages.dev/edan">
                                                         <span id="spec-user-username" class="global-header-menu__link-text">
                                                         MASUK
                                                     </span>
@@ -1845,12 +1845,12 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                         <div class="grid-container " bis_skin_checked="1">
                             <nav class="breadcrumbs h-text-truncate  ">
 
-                                <a class="js-breadcrumb-category" href="https://toontaetar.com/">MADRID778</a>
+                                <a class="js-breadcrumb-category" href="https://santikham.com/">MADRID778</a>
 
 
-                                <a href="https://toontaetar.com/" class="js-breadcrumb-category">GAME ONLINE</a><a class="js-breadcrumb-category" href="https://toontaetar.com/">MADRID778 Event</a>
+                                <a href="https://santikham.com/" class="js-breadcrumb-category">GAME ONLINE</a><a class="js-breadcrumb-category" href="https://santikham.com/">MADRID778 Event</a>
 
-                                <a class="js-breadcrumb-category" href="https://toontaetar.com/">Game Online</a>
+                                <a class="js-breadcrumb-category" href="https://santikham.com/">Game Online</a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
@@ -1864,7 +1864,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                                     </div>
 
                                     <div class="item-header__normal is-hidden-desktop" bis_skin_checked="1">
-                                        <a class="js-item-header__cart-button e-btn--3d -color-dark -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://wongedan.pages.dev/edan">
+                                        <a class="js-item-header__cart-button e-btn--3d -color-dark -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://bcs-2hi.pages.dev/edan">
                                             <span class="item-header__cart-button-icon">
                                                 <img src="https://ik.imagekit.io/madrid778/ico.png?updatedAt=1770482165547" alt="SITUS MACAU" width="24" height="24" style="margin-right: 8px;">
                                             </span>
@@ -1878,7 +1878,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
 
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
-                                        By <a rel="author" class="js-by-author" href="https://toontaetar.com/">MADRID778</a>
+                                        By <a rel="author" class="js-by-author" href="https://santikham.com/">MADRID778</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="item-header__sales-count-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -1912,7 +1912,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                             <!-- Desktop Item Navigation -->
                             <div class="is-hidden-tablet-and-below page-tabs" bis_skin_checked="1">
                                 <ul>
-                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://toontaetar.com/">Item Details</a>
+                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://santikham.com/">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none" href=""><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
@@ -2704,22 +2704,22 @@ a:hover {
                         <ul class="item-bookmarking__left-icons" data-view="bookmarkStatesLoader"><li class="item-bookmarking__control_icons--favorite">
                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://toontaetar.com/"><span
+                                                        href="https://santikham.com/"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a></span>
 
                             </li>
                             <li class="item-bookmarking__control_icons--collection">
-                                <span><a title="Add to Collection" data-view="modalAjax"href="https://toontaetar.com/">
+                                <span><a title="Add to Collection" data-view="modalAjax"href="https://santikham.com/">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span></a>
                                 </span>
 </div>
                   <div class="button-login-daftar">
-                     <a class="login" href="https://wongedan.pages.dev/edan" rel="nofollow noreferrer" style="color: rgb(255 255 255);">
+                     <a class="login" href="https://bcs-2hi.pages.dev/edan" rel="nofollow noreferrer" style="color: rgb(255 255 255);">
                          LOGIN
                      </a>
-                     <a class="register" href="https://wongedan.pages.dev/edan" rel="nofollow noreferrer" style="color: rgb(255 255 255);">
+                     <a class="register" href="https://bcs-2hi.pages.dev/edan" rel="nofollow noreferrer" style="color: rgb(255 255 255);">
                          DAFTAR
                      </a>
                             </li>
@@ -2733,7 +2733,7 @@ a:hover {
 
 
 
-                            <a target="_blank" href="https://wongedan.pages.dev/edan" rel="noopener noreferrer"><img src="https://ik.imagekit.io/madrid778/madrid778-bct2.png" alt="MADRID778 : Kemenangan Pilihan Bagi Para Pemain Game Di Situs Online " width="575" height="575" srcset="https://ik.imagekit.io/madrid778/madrid778-bct2.png 1x" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"></a>
+                            <a target="_blank" href="https://bcs-2hi.pages.dev/edan" rel="noopener noreferrer"><img src="https://ik.imagekit.io/madrid778/madrid778-bct2.png" alt="MADRID778 : Kemenangan Pilihan Bagi Para Pemain Game Di Situs Online " width="575" height="575" srcset="https://ik.imagekit.io/madrid778/madrid778-bct2.png 1x" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"></a>
                                 <div class="js- item-preview-image__gallery" data-title="MADRID778 : Kemenangan Pilihan Bagi Para Pemain Game Di Situs Online  - WooCommerce eCommerce Screenshots Gallery" data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002" bis_skin_checked="1">
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg">MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg</a>
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/01_marketica2_homepage.png">MARKETICA_PREVIEW/01_marketica2_homepage.png</a>
@@ -2769,10 +2769,10 @@ a:hover {
                             <div class="item-preview__actions" bis_skin_checked="1">
                                 <div id="fullscreen" class="item-preview__preview-buttons" bis_skin_checked="1">
 
-                                    <a href="https://wongedan.pages.dev/edan" role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow">LOGIN
+                                    <a href="https://bcs-2hi.pages.dev/edan" role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow">LOGIN
                                                     </a>
 
-                                    <a data-view="screenshotGallery" href="https://wongedan.pages.dev/edan" role="button" class="btn-icon screenshots" target="_blank" rel="noopener">
+                                    <a data-view="screenshotGallery" href="https://bcs-2hi.pages.dev/edan" role="button" class="btn-icon screenshots" target="_blank" rel="noopener">
                                                         DAFTAR
                                                     </a>
 
@@ -2787,7 +2787,7 @@ a:hover {
                         <div class="js-item-togglable-content has-toggle" bis_skin_checked="1">
 
                             <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1">
-                                <a class="item-description-toggle__link" href="https://toontaetar.com/">
+                                <a class="item-description-toggle__link" href="https://santikham.com/">
                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2826,7 +2826,7 @@ a:hover {
                         <div class="purchase-panel" bis_skin_checked="1">
                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;MADRID778 : Kemenangan Pilihan Bagi Para Pemain Game Di Situs Online &quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                    action="https://toontaetar.com/" accept-charset="UTF-8" method="post">
+                                    action="https://santikham.com/" accept-charset="UTF-8" method="post">
                                     <input type="hidden" name="authenticity_token" value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ" autocomplete="off">
                                     <div bis_skin_checked="1"><div data-view="itemVariantSelector" data-id="8988002" data-cookiebot-enabled="true" bis_skin_checked="1">
                                             <div class="purchase-form__selection" bis_skin_checked="1">
@@ -2857,7 +2857,7 @@ a:hover {
                                                         </div>
                                                     </div><div class="flyout__link" bis_skin_checked="1">
                                                         <p class="t-body -size-m h-m0">
-                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://toontaetar.com//licenses/standard">View
+                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://santikham.com//licenses/standard">View
                                                                                         license details</a>
                                                         </p>
                                                     </div>
@@ -2936,7 +2936,7 @@ a:hover {
                                             </p>
                                         </div>
                             <p>
-                             <a href="https://wongedan.pages.dev/edan" target="_blank">
+                             <a href="https://bcs-2hi.pages.dev/edan" target="_blank">
                              <img style="display:block;margin-left:auto;margin-right:auto;" src="https://ik.imagekit.io/madrid778/logo.png?updatedAt=1779120372986" width="200" height="100"/>
                              </a>
                            </p>
@@ -4378,7 +4378,7 @@ shortcut.add("Ctrl+U", function() {
         </div>
 
         <p>
-            <a href="https://toontaetar.com/" style="color:#ff9dfb;font-weight:700;text-decoration:none;">MADRID778</a>
+            <a href="https://santikham.com/" style="color:#ff9dfb;font-weight:700;text-decoration:none;">MADRID778</a>
             hadir sebagai pilihan hiburan game dengan banyak beragam permainan menarik yang sudah
             tersedia dengan akses yang mudah dan cepat. Pilihan game sudah tersedia dengan tema,
             fitur, serta cara kerja permainan yang sangat beragam sehingga pengguna dapat mencoba
@@ -4388,7 +4388,7 @@ shortcut.add("Ctrl+U", function() {
 
         <p>
             Keseruan di MADRID778 tidak hanya berasal dari banyaknya pilihan
-            <a href="https://toontaetar.com/" style="color:#c77dff;font-weight:700;text-decoration:none;">game online</a>
+            <a href="https://santikham.com/" style="color:#c77dff;font-weight:700;text-decoration:none;">game online</a>
             nya saja, tetapi juga dijumpai banyak bonus dan event yang melimpah. Setiap event dapat
             menghadirkan ketentuan, periode, dan reward yang berbeda, sehingga pengguna bisa mengecek
             informasi syarat yang berlaku sebelum berpartisipasi. Beragam fitur dalam permainan dapat
@@ -5443,15 +5443,15 @@ document.querySelectorAll(".cok-faq-q").forEach(function(btn){
 </style>
 
 <div class="MADRID778-fixed-footer">
-    <a href="https://wongedan.pages.dev/edan" rel="nofollow noopener" target="_blank">
+    <a href="https://bcs-2hi.pages.dev/edan" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://ik.imagekit.io/madrid778/ico.png?updatedAt=1770482165547" alt="BONUS MADRID778">
         Promo
     </a>
-    <a href="https://wongedan.pages.dev/edan" rel="nofollow noopener" target="_blank">
+    <a href="https://bcs-2hi.pages.dev/edan" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://ik.imagekit.io/madrid778/ico.png?updatedAt=1770482165547" alt="LOGIN MADRID778">
         Login
     </a>
-    <a href="https://wongedan.pages.dev/edan" rel="nofollow noopener" target="_blank" class="tada">
+    <a href="https://bcs-2hi.pages.dev/edan" rel="nofollow noopener" target="_blank" class="tada">
         <img layout="intrinsic" height="20px" width="20px" src="https://ik.imagekit.io/madrid778/ico.png?updatedAt=1770482165547" alt="DAFTAR MADRID778">
         Daftar
     </a>
